@@ -1,6 +1,0 @@
-{
-  "packs": [
-    { "id": "core-v1", "name": "תהליכי ליבה + טופס 17", "file": "core-v1.json" },
-    { "id": "onboarding-v1", "name": "קליטת עובדים חדשים", "file": "onboarding-v1.json" }
-  ]
-}
